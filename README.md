@@ -1,6 +1,6 @@
 Olá, eu sou o Jonas Nunes
 
-- 👔 Webdesigner facinado pelo PHP.
+- 👔 Webdesigner fascinado pelo PHP.
 - 👨‍🎓 Estudando PHP, Laravel e Tailwind.
 - 🎮 Amante do universo Geek.
 
