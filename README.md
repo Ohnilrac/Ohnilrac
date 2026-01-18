@@ -1,7 +1,7 @@
 Olá, eu sou o Jonas Nunes
 
-- 👔 Atualmente em busca de uma oportunidade em Front-end.
-- 👨‍🎓 Estudando React.js, Typescript e Styled Components.
+- 👔 Webdesigner facinado pelo PHP.
+- 👨‍🎓 Estudando PHP, Laravel e Tailwind.
 - 🎮 Amante do universo Geek.
 
 <div align="center">
